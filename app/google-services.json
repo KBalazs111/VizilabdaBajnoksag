@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293365781588",
+    "project_id": "vizilabdaapp",
+    "storage_bucket": "vizilabdaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293365781588:android:ba3e246b5296432717c9c1",
+        "android_client_info": {
+          "package_name": "com.example.vizilabdabajnoksag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOlb5Iti14-1FZ8vrL2KiLbuka86qej-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
